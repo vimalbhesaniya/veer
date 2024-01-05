@@ -7,7 +7,7 @@ function page() {
 		<>
 			<div className='homemain'>
 				<div className='datetime'>
-					<h1 className='h2'>Welcome to Vimal&apo;ss <span className='folio'>Portfolio</span></h1>
+					<h1 className='h2'>Welcome to Vimal&apos;<span className='folio'>Portfolio</span></h1>
 				</div>
 				<div className='hellopicture'>
 					<div className='picture'>

@@ -157,11 +157,7 @@ hr{
     color: var(--font);
     width: 100%;
 }
-.homemain
-{
-    width: 100%;
-    height: 100vh;
-    padding: 40px;
+.homemain{
     overflow: scroll;
 }
 .Layout::-webkit-scrollbar{
@@ -187,7 +183,6 @@ hr{
     align-items: center;
 }
 .picture{
-
     display: flex;
     justify-content: center;
     align-items: center;
@@ -437,9 +432,7 @@ hr{
     
   }
   @media only screen and (max-width: 400px) {
-    .copyright{
 
-    }
   }
 .section1{
     width: auto;
