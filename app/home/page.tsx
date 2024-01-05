@@ -1,5 +1,5 @@
 "use client"
-import React, { useEffect } from 'react'
+import React from 'react'
 import pic from "../../public/me.jpg"
 import Image from 'next/image'
 function page() {
