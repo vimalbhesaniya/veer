@@ -7,7 +7,7 @@ function page() {
 		<>
 			<div className='homemain'>
 				<div className='datetime'>
-					<h1 className='h2'>Welcome to Vimal's <span className='folio'>Portfolio</span></h1>
+					<h1 className='h2'>Welcome to Vimal&apo;ss <span className='folio'>Portfolio</span></h1>
 				</div>
 				<div className='hellopicture'>
 					<div className='picture'>
@@ -19,15 +19,15 @@ function page() {
 					<div className='greetings'>
 						<div className='words'>
 							<p>Hi There!!</p>
-							<p>I'M <span className='myname'>Vimal Bhesaniya</span></p>
+							<p>I&apos;M <span className='myname'>Vimal Bhesaniya</span></p>
 						</div>
 					</div>
 				</div>
 				<div className='introduction'>
 					<div className='part1'>
 						<h2 className='h22'>LET ME <span className='intromyself'>INRODUCE</span>  MYSELF</h2>
-						<p className='p1'>I'm a<span className='skill1'>React.js</span> developer passionate about creating dynamic and responsive web applications. </p>
-						<p className='p1'>I'm a friendly coder who loves turning ideas into cool <span className='skill1'>websites.</span></p>
+						<p className='p1'>I&apos;m a<span className='skill1'>React.js</span> developer passionate about creating dynamic and responsive web applications. </p>
+						<p className='p1'>I&apos;m a friendly coder who loves turning ideas into cool <span className='skill1'>websites.</span></p>
 					</div>
 					<div className='part2'>
 						<img src="https://img.freepik.com/free-vector/javascript-frameworks-concept-illustration_114360-752.jpg?w=740&t=st=1700835151~exp=1700835751~hmac=0508e65da8da5be8983243f6e83eb835183f4133b2ff6ea2d24fbff0e202c290" alt="" />
